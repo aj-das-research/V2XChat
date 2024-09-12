@@ -1,0 +1,95 @@
+{
+    "circular": {
+      "title": "Institutional mechanism by Asset Management Companies for identification and deterrence of potential market abuse including front-running and fraudulent transactions in securities",
+      "issued_by": {
+        "organization": "Securities and Exchange Board of India (SEBI)",
+        "date": "August 05, 2024",
+        "circular_number": "SEBI/HO/IMD/IMD-PoD-1/P/CIR/2024/107"
+      },
+      "recipients": [
+        "All Mutual Funds",
+        "All Asset Management Companies (AMCs)",
+        "All Trustee Companies/ Board of Trustees of Mutual Funds",
+        "Association of Mutual Funds in India (AMFI)",
+        "All Recognized Stock Exchanges",
+        "All Recognized Depositories"
+      ],
+      "sections": {
+        "1": {
+          "description": "Objective",
+          "content": "To address instances of market abuse including front-running and fraudulent transactions in securities, SEBI has consulted relevant stakeholders and has put in place a structured institutional mechanism at the end of AMCs."
+        },
+        "2": {
+          "description": "Regulatory Amendments",
+          "content": "The SEBI (Mutual Funds) Regulations, 1996 have been amended to implement the structured institutional mechanism."
+        },
+        "3": {
+          "description": "Institutional Mechanism Requirements",
+          "content": {
+            "3.1": {
+              "title": "Accountability",
+              "details": "The CEO or MD and the Chief Compliance Officer of the AMC shall be responsible and accountable for implementing the mechanism."
+            },
+            "3.2": {
+              "title": "Alert-based Surveillance Mechanism",
+              "details": "AMCs shall develop systems to generate and process alerts timely."
+            },
+            "3.3": {
+              "title": "Processing of Alerts",
+              "details": [
+                "Review all recorded communications, including chats, emails, and access logs of dealing rooms.",
+                "Monitor entry logs to AMCs' premises."
+              ]
+            },
+            "3.4": {
+              "title": "Standard Operating Procedures",
+              "details": "AMCs shall formulate written policies approved by their Board of Directors to handle market abuse cases involving employees and connected entities."
+            },
+            "3.5": {
+              "title": "Action on Suspicious Alerts",
+              "details": "AMCs shall take action, including suspension or termination, upon detecting potential market abuse by employees or brokers/dealers."
+            },
+            "3.6": {
+              "title": "Escalation Process",
+              "details": "AMCs shall promptly inform their Board of Directors and Trustees about instances of potential market abuse and examination results."
+            },
+            "3.7": {
+              "title": "Whistle Blower Policy",
+              "details": "AMCs shall have a documented whistle blower policy in line with SEBI MF Regulations."
+            },
+            "3.8": {
+              "title": "Periodic Review",
+              "details": "AMCs shall periodically review and update the procedures and systems in place."
+            }
+          }
+        },
+        "4": {
+          "description": "Trade-related Information from Exchanges",
+          "content": "Exchanges and depositories shall develop systems to enable data sharing with AMCs for effective functioning of the institutional mechanism."
+        },
+        "5": {
+          "description": "Reporting to SEBI",
+          "content": "AMCs shall report all examined alerts to SEBI along with actions taken in the Compliance Test Report (CTR) and Half-yearly Trustee Report (HYTR)."
+        },
+        "6": {
+          "description": "Uniform Implementation Standards",
+          "content": "AMFI, in consultation with SEBI, shall prescribe detailed implementation standards to be followed mandatorily by all AMCs within fifteen days."
+        },
+        "7": {
+          "description": "Legal Basis",
+          "content": "This circular is issued under Section 11(1) of the SEBI Act, 1992, read with relevant SEBI Mutual Funds Regulations, to protect investors' interests."
+        },
+        "8": {
+          "description": "Availability",
+          "content": "This circular is available at www.sebi.gov.in under the link 'Legal -> Circulars'."
+        }
+      },
+      "contact": {
+        "name": "Peter Mardi",
+        "designation": "Deputy General Manager, Investment Management Department",
+        "contact_number": "+91-22-26449233",
+        "email": "peterm@sebi.gov.in"
+      }
+    }
+  }
+  

@@ -1,0 +1,57 @@
+# Ignore Python bytecode and cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+new_venv/
+venv/
+env/
+ENV/
+
+# Ignore environment files
+.env
+
+# Ignore audio and large binary files
+*.wav
+*.mp3
+*.flac
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore output and logs
+output/
+logs/
+*.log
+*.txt
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore compiled C extensions
+*.so
+
+# Ignore PDFs and other documentation files
+*.pdf
+*.md
+
+# Ignore any temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Ignore images and icons
+*.jpg
+*.jpeg
+*.webp
+
+# Ignore specific project files
+knowledge_base/
+status.txt

@@ -26,7 +26,7 @@ class LanguageIdentifier:
                 response = self.client.audio.transcriptions.create(
                     file=(file_path, file.read()),
                     model="whisper-large-v3",
-                    prompt = "Identify the language of this audio. Respond with only the two-letter language code (e.g., 'en' for English, 'hi' for Hindi).",
+                    prompt = "Identify the language of this audio if it is Hindi, Gujrati, Bengali or English. Please give attention to the greetings and words carefully to recognise the language. Respond with only the two-letter language code (e.g., 'en' for English, 'hi' for Hindi).",
                     response_format="text",
                     temperature=0.0
                 )

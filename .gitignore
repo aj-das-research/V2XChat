@@ -53,5 +53,4 @@ tmp/
 *.webp
 
 # Ignore specific project files
-knowledge_base/
 status.txt
